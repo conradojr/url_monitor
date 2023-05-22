@@ -1,0 +1,71 @@
+2023-05-22 00:00:05,924 [INFO] --- 2023-05-22 00:00:05.924851 ---
+2023-05-22 00:00:17,264 [INFO] https://www.google.com: Status: 200, Hash: 5f008fbe01d93c05fda2627aa7ffd36207ce5495384af950e09cc7453759a1db, Status Changed: Yes
+2023-05-22 00:00:17,265 [INFO] Changes detected:
+2023-05-22 00:00:19,553 [INFO] --- 2023-05-22 00:00:19.553004 ---
+2023-05-22 00:00:19,848 [INFO] https://www.google.com: Status: 200, Hash: 1c6de4c0642f907de5524895b6280e24f10ee100eab4fcb0fed7b8952fb50903, Status Changed: No
+2023-05-22 00:00:46,513 [INFO] --- 2023-05-22 00:00:46.513319 ---
+2023-05-22 00:00:46,775 [INFO] https://www.google.com: Status: 200, Hash: b8117412afed0d6317c20277857079a66ae74a83c9ed21597ce2aa8427e41c21, Status Changed: No
+2023-05-22 00:01:17,276 [INFO] --- 2023-05-22 00:01:17.276373 ---
+2023-05-22 00:01:17,531 [INFO] https://www.google.com: Status: 200, Hash: de72b699c37bb820b29fb06d1a47c57f2ffc6e5599e9412375298bd562ddf85b, Status Changed: No
+2023-05-22 00:01:28,139 [INFO] --- 2023-05-22 00:01:28.139270 ---
+2023-05-22 00:01:28,407 [INFO] https://www.google.com: Status: 200, Hash: dd8aad667860a60aa5a5b1d80946aecc96bc6af31b8cdad453b7151424df6f68, Status Changed: No
+2023-05-22 00:01:40,262 [INFO] https://www.cnn.com: Status: 200, Hash: 5ac55efc1e760f87309f24690475d467080b495e7ed0d440e1a9bd93dd35f253, Status Changed: Yes
+2023-05-22 00:01:40,360 [INFO] https://www.terra.com.br: Status: 200, Hash: 24b4ddd2808cc85e6b60aacee80e09cf75e9b89f92b04a54085d213887c4eb5d, Status Changed: Yes
+2023-05-22 00:01:40,600 [INFO] https://www.google.com.br: Status: 200, Hash: b256ad4f71ecde2c46579804b7250f348ca20333cedc979be4aa203b305312ed, Status Changed: Yes
+2023-05-22 00:01:40,613 [WARNING] : Connection error
+2023-05-22 00:01:40,615 [INFO] Changes detected:
+2023-05-22 00:01:50,621 [INFO] --- 2023-05-22 00:01:50.621842 ---
+2023-05-22 00:01:50,893 [INFO] https://www.google.com: Status: 200, Hash: 4865d6442a06ac21f22dcfc48276714a4144328dd5cdd258451dd70b3a9f8085, Status Changed: No
+2023-05-22 00:01:51,199 [INFO] https://www.cnn.com: Status: 200, Hash: 5ac55efc1e760f87309f24690475d467080b495e7ed0d440e1a9bd93dd35f253, Status Changed: No
+2023-05-22 00:01:51,277 [INFO] https://www.terra.com.br: Status: 200, Hash: 24b4ddd2808cc85e6b60aacee80e09cf75e9b89f92b04a54085d213887c4eb5d, Status Changed: No
+2023-05-22 00:01:51,533 [INFO] https://www.google.com.br: Status: 200, Hash: 4e2d7176382fbe284b043b6f524936ad7f9c109347d9076e9aa07465860fa6ea, Status Changed: No
+2023-05-22 00:02:17,537 [INFO] --- 2023-05-22 00:02:17.537080 ---
+2023-05-22 00:02:17,816 [INFO] https://www.google.com: Status: 200, Hash: 957c930465fb79e1572488811c01e41c395e797c3c260c34faead8b1e9f49b35, Status Changed: No
+2023-05-22 00:02:18,172 [INFO] https://www.cnn.com: Status: 200, Hash: 5ac55efc1e760f87309f24690475d467080b495e7ed0d440e1a9bd93dd35f253, Status Changed: No
+2023-05-22 00:02:18,243 [INFO] https://www.terra.com.br: Status: 200, Hash: 24b4ddd2808cc85e6b60aacee80e09cf75e9b89f92b04a54085d213887c4eb5d, Status Changed: No
+2023-05-22 00:02:18,489 [INFO] https://www.google.com.br: Status: 200, Hash: 3033da3b8b343c02c1de533df45bd3c6494fff94c8db307793201af6461507ae, Status Changed: No
+2023-05-22 00:02:37,235 [INFO] --- 2023-05-22 00:02:37.235337 ---
+2023-05-22 00:02:37,533 [INFO] https://www.google.com: Status: 200, Hash: d1bd638785e7897a793be262d7bb98546c0c6b49eed43865174dcbb741361021, Status Changed: No
+2023-05-22 00:02:37,840 [INFO] https://www.cnn.com: Status: 200, Hash: 5ac55efc1e760f87309f24690475d467080b495e7ed0d440e1a9bd93dd35f253, Status Changed: No
+2023-05-22 00:02:37,910 [INFO] https://www.terra.com.br: Status: 200, Hash: 0a69e6993eaf2d6255cc0443ce0c19d2e841cf214ef1b066edcf484159b1ec52, Status Changed: No
+2023-05-22 00:02:38,170 [INFO] https://www.google.com.br: Status: 200, Hash: ac0187ea05cdf61f26b4b252af20e344b4887d31f4a65f72da567bf92570958b, Status Changed: No
+2023-05-22 00:02:46,595 [INFO] --- 2023-05-22 00:02:46.595708 ---
+2023-05-22 00:02:46,996 [INFO] https://www.google.com: Status: 200, Hash: e2e6de5435794ea425d016cf273b5537a07df770d7364d7ba536328e3de39b25, Status Changed: No
+2023-05-22 00:02:58,445 [INFO] https://www.cnn.com: Status: 200, Hash: 5ac55efc1e760f87309f24690475d467080b495e7ed0d440e1a9bd93dd35f253, Status Changed: No
+2023-05-22 00:02:58,704 [INFO] https://www.terra.com.br: Status: 200, Hash: 0a69e6993eaf2d6255cc0443ce0c19d2e841cf214ef1b066edcf484159b1ec52, Status Changed: No
+2023-05-22 00:02:58,973 [INFO] https://www.google.com.br: Status: 200, Hash: 60a9274892739bcd1fd9e63a15390e42fc45daaba64beaf1dfc38570460d9466, Status Changed: No
+2023-05-22 00:03:05,383 [INFO] --- 2023-05-22 00:03:05.382818 ---
+2023-05-22 00:03:05,713 [INFO] https://www.google.com: Status: 200, Hash: 0f23918fc9468be50d412b459c19b35b41018c19deb471ff453d8b0f291be82a, Status Changed: No
+2023-05-22 00:03:17,169 [INFO] https://www.cnn.com: Status: 200, Hash: 5ac55efc1e760f87309f24690475d467080b495e7ed0d440e1a9bd93dd35f253, Status Changed: No
+2023-05-22 00:03:17,255 [INFO] https://www.terra.com.br: Status: 200, Hash: 96b191e5f5b6bc98db387504fc7eae67f90f576bb378961b735acfd95c904ad4, Status Changed: No
+2023-05-22 00:03:17,524 [INFO] https://www.google.com.br: Status: 200, Hash: ef0f6ed611effa874f88ba5f3d5bcb8ba7318ddcffbf5534c2c1d5e04d68299d, Status Changed: No
+2023-05-22 00:03:33,338 [INFO] --- 2023-05-22 00:03:33.338899 ---
+2023-05-22 00:03:33,604 [INFO] https://www.google.com: Status: 200, Hash: 6caf1c9d9a900ecd15f29be73d9f9b5a3c451b0bcc90b137c0e156d682133d2a, Status Changed: No
+2023-05-22 00:03:33,944 [INFO] https://www.cnn.com: Status: 200, Hash: 5ac55efc1e760f87309f24690475d467080b495e7ed0d440e1a9bd93dd35f253, Status Changed: No
+2023-05-22 00:03:34,039 [INFO] https://www.terra.com.br: Status: 200, Hash: 96b191e5f5b6bc98db387504fc7eae67f90f576bb378961b735acfd95c904ad4, Status Changed: No
+2023-05-22 00:03:34,294 [INFO] https://www.google.com.br: Status: 200, Hash: 589052a7ed982a98495089188eacd34bd88a2696141807427204525318019044, Status Changed: No
+2023-05-22 00:03:44,298 [INFO] --- 2023-05-22 00:03:44.298919 ---
+2023-05-22 00:03:44,562 [INFO] https://www.google.com: Status: 200, Hash: c9224785de4b5d9f54602dd024a2ad55f7b4465781a3fdadd0f2b58b99fcdf0e, Status Changed: No
+2023-05-22 00:03:44,889 [INFO] https://www.cnn.com: Status: 200, Hash: 5ac55efc1e760f87309f24690475d467080b495e7ed0d440e1a9bd93dd35f253, Status Changed: No
+2023-05-22 00:03:44,976 [INFO] https://www.terra.com.br: Status: 200, Hash: ecefb58ff986bafe3b8b314d5ef6e86437108683523f00a67780ac6850bd45bf, Status Changed: No
+2023-05-22 00:03:45,245 [INFO] https://www.google.com.br: Status: 200, Hash: bbd59872136aeffc25f65a9e71cb7bab8f0b25a5826ffa9d11523d7a8ab986bf, Status Changed: No
+2023-05-22 00:03:55,248 [INFO] --- 2023-05-22 00:03:55.248012 ---
+2023-05-22 00:03:55,821 [INFO] https://www.google.com: Status: 200, Hash: 12df2e31c00c1c3a504d95bbead4a8d0bfc093492efbdc769fb72c8818e21c40, Status Changed: No
+2023-05-22 00:03:56,182 [INFO] https://www.cnn.com: Status: 200, Hash: 5ac55efc1e760f87309f24690475d467080b495e7ed0d440e1a9bd93dd35f253, Status Changed: No
+2023-05-22 00:04:07,340 [INFO] https://www.terra.com.br: Status: 200, Hash: 7f311f5c9b6e0823072a9197d3af832c7f6dff6c165c9491b5d4288a52d920a8, Status Changed: No
+2023-05-22 00:04:07,606 [INFO] https://www.google.com.br: Status: 200, Hash: ca236034a6ed604348ce16abb032127d13296ca5201008e93eff751af2979e46, Status Changed: No
+2023-05-22 00:04:07,660 [INFO] https://www.banrisul.com.br: Status: 200, Hash: 1e974a1573daf897e7c66abe3db8965ae89a94c7a2e28963a4d351d46831ae69, Status Changed: Yes
+2023-05-22 00:04:07,661 [INFO] Changes detected:
+2023-05-22 00:04:17,666 [INFO] --- 2023-05-22 00:04:17.666192 ---
+2023-05-22 00:04:29,021 [INFO] https://www.google.com: Status: 200, Hash: e8ea1983430413f655c312ed491b73114668b320163d7a42241fb3863b4d866a, Status Changed: No
+2023-05-22 00:04:29,410 [INFO] https://www.cnn.com: Status: 200, Hash: 5ac55efc1e760f87309f24690475d467080b495e7ed0d440e1a9bd93dd35f253, Status Changed: No
+2023-05-22 00:04:29,487 [INFO] https://www.terra.com.br: Status: 200, Hash: 7f311f5c9b6e0823072a9197d3af832c7f6dff6c165c9491b5d4288a52d920a8, Status Changed: No
+2023-05-22 00:04:29,758 [INFO] https://www.google.com.br: Status: 200, Hash: 886bc2ba0429a832b42ae121c6ec193673dd59c160c015c15e3e4a3a51edfa00, Status Changed: No
+2023-05-22 00:04:29,808 [INFO] https://www.banrisul.com.br: Status: 200, Hash: 1e974a1573daf897e7c66abe3db8965ae89a94c7a2e28963a4d351d46831ae69, Status Changed: No
+2023-05-22 00:04:39,810 [INFO] --- 2023-05-22 00:04:39.810102 ---
+2023-05-22 00:04:40,062 [INFO] https://www.google.com: Status: 200, Hash: 6dbd735ea01d26cf64eb0065ed746b8174f973678288423e83134a59cccdcadb, Status Changed: No
+2023-05-22 00:04:40,359 [INFO] https://www.cnn.com: Status: 200, Hash: 5ac55efc1e760f87309f24690475d467080b495e7ed0d440e1a9bd93dd35f253, Status Changed: No
+2023-05-22 00:04:40,435 [INFO] https://www.terra.com.br: Status: 200, Hash: 7f311f5c9b6e0823072a9197d3af832c7f6dff6c165c9491b5d4288a52d920a8, Status Changed: No
+2023-05-22 00:04:40,705 [INFO] https://www.google.com.br: Status: 200, Hash: dfa040effb14d27c21462b50fb2f6a5ab93a76972aca971575a489335e32a87f, Status Changed: No
+2023-05-22 00:04:40,750 [INFO] https://www.banrisul.com.br: Status: 200, Hash: 1e974a1573daf897e7c66abe3db8965ae89a94c7a2e28963a4d351d46831ae69, Status Changed: No
+2023-05-22 00:04:50,755 [INFO] --- 2023-05-22 00:04:50.755293 ---
